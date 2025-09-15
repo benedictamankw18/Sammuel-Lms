@@ -1,0 +1,310 @@
+C:\Users\arhin\source\repos\School Management\School Management\bin\School Management.dll.config
+C:\Users\arhin\source\repos\School Management\School Management\bin\School Management.dll
+C:\Users\arhin\source\repos\School Management\School Management\bin\School Management.pdb
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\csc.exe
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\csc.exe.config
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\csc.rsp
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\csi.exe
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\csi.exe.config
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\csi.rsp
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\System.AppContext.dll
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\System.Console.dll
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\System.IO.Compression.dll
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\System.IO.Pipes.dll
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\System.Security.Claims.dll
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\System.Threading.Thread.dll
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\System.ValueTuple.dll
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\System.Xml.XPath.dll
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\vbc.exe
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\vbc.exe.config
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\vbc.rsp
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\VBCSCompiler.exe
+C:\Users\arhin\source\repos\School Management\School Management\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\arhin\source\repos\School Management\School Management\bin\BouncyCastle.Cryptography.dll
+C:\Users\arhin\source\repos\School Management\School Management\bin\itextsharp.dll
+C:\Users\arhin\source\repos\School Management\School Management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\arhin\source\repos\School Management\School Management\bin\BouncyCastle.Cryptography.xml
+C:\Users\arhin\source\repos\School Management\School Management\bin\itextsharp.xml
+C:\Users\arhin\source\repos\School Management\School Management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\arhin\source\repos\School Management\School Management\obj\Debug\School Management.csprojAssemblyReference.cache
+C:\Users\arhin\source\repos\School Management\School Management\obj\Debug\School Management.csproj.CoreCompileInputs.cache
+C:\Users\arhin\source\repos\School Management\School Management\obj\Debug\School Management.csproj.CopyComplete
+C:\Users\arhin\source\repos\School Management\School Management\obj\Debug\School Management.dll
+C:\Users\arhin\source\repos\School Management\School Management\obj\Debug\School Management.pdb
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\School Management.dll.config
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\School Management.dll
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\School Management.pdb
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\csc.exe
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\csc.exe.config
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\csc.rsp
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\csi.exe
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\csi.exe.config
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\csi.rsp
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\System.AppContext.dll
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\System.Console.dll
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\System.IO.Compression.dll
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\System.IO.Pipes.dll
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\System.Security.Claims.dll
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\System.Threading.Thread.dll
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\System.ValueTuple.dll
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\vbc.exe
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\vbc.exe.config
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\vbc.rsp
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\VBCSCompiler.exe
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\BouncyCastle.Cryptography.dll
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\itextsharp.dll
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\BouncyCastle.Cryptography.xml
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\itextsharp.xml
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\obj\Debug\School Management.csprojAssemblyReference.cache
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\obj\Debug\School Management.csproj.CoreCompileInputs.cache
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\obj\Debug\School Management.csproj.CopyComplete
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\obj\Debug\School Management.dll
+C:\Users\SOFTENIC COMPUTERS\Desktop\School Management\School Management\obj\Debug\School Management.pdb
+I:\pen drive\update\School Management\School Management\bin\School Management.dll.config
+I:\pen drive\update\School Management\School Management\bin\School Management.dll
+I:\pen drive\update\School Management\School Management\bin\School Management.pdb
+I:\pen drive\update\School Management\School Management\bin\roslyn\csc.exe
+I:\pen drive\update\School Management\School Management\bin\roslyn\csc.exe.config
+I:\pen drive\update\School Management\School Management\bin\roslyn\csc.rsp
+I:\pen drive\update\School Management\School Management\bin\roslyn\csi.exe
+I:\pen drive\update\School Management\School Management\bin\roslyn\csi.exe.config
+I:\pen drive\update\School Management\School Management\bin\roslyn\csi.rsp
+I:\pen drive\update\School Management\School Management\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\pen drive\update\School Management\School Management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\pen drive\update\School Management\School Management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\pen drive\update\School Management\School Management\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\pen drive\update\School Management\School Management\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\pen drive\update\School Management\School Management\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\pen drive\update\School Management\School Management\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\pen drive\update\School Management\School Management\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\pen drive\update\School Management\School Management\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\pen drive\update\School Management\School Management\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\pen drive\update\School Management\School Management\bin\roslyn\Microsoft.Win32.Primitives.dll
+I:\pen drive\update\School Management\School Management\bin\roslyn\System.AppContext.dll
+I:\pen drive\update\School Management\School Management\bin\roslyn\System.Collections.Immutable.dll
+I:\pen drive\update\School Management\School Management\bin\roslyn\System.Console.dll
+I:\pen drive\update\School Management\School Management\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\pen drive\update\School Management\School Management\bin\roslyn\System.Diagnostics.Process.dll
+I:\pen drive\update\School Management\School Management\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\pen drive\update\School Management\School Management\bin\roslyn\System.IO.Compression.dll
+I:\pen drive\update\School Management\School Management\bin\roslyn\System.IO.FileSystem.dll
+I:\pen drive\update\School Management\School Management\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+I:\pen drive\update\School Management\School Management\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\pen drive\update\School Management\School Management\bin\roslyn\System.IO.Pipes.dll
+I:\pen drive\update\School Management\School Management\bin\roslyn\System.Reflection.Metadata.dll
+I:\pen drive\update\School Management\School Management\bin\roslyn\System.Security.AccessControl.dll
+I:\pen drive\update\School Management\School Management\bin\roslyn\System.Security.Claims.dll
+I:\pen drive\update\School Management\School Management\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\pen drive\update\School Management\School Management\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\pen drive\update\School Management\School Management\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\pen drive\update\School Management\School Management\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\pen drive\update\School Management\School Management\bin\roslyn\System.Security.Principal.Windows.dll
+I:\pen drive\update\School Management\School Management\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\pen drive\update\School Management\School Management\bin\roslyn\System.Threading.Thread.dll
+I:\pen drive\update\School Management\School Management\bin\roslyn\System.ValueTuple.dll
+I:\pen drive\update\School Management\School Management\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\pen drive\update\School Management\School Management\bin\roslyn\System.Xml.XmlDocument.dll
+I:\pen drive\update\School Management\School Management\bin\roslyn\System.Xml.XPath.dll
+I:\pen drive\update\School Management\School Management\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\pen drive\update\School Management\School Management\bin\roslyn\vbc.exe
+I:\pen drive\update\School Management\School Management\bin\roslyn\vbc.exe.config
+I:\pen drive\update\School Management\School Management\bin\roslyn\vbc.rsp
+I:\pen drive\update\School Management\School Management\bin\roslyn\VBCSCompiler.exe
+I:\pen drive\update\School Management\School Management\bin\roslyn\VBCSCompiler.exe.config
+I:\pen drive\update\School Management\School Management\bin\BouncyCastle.Cryptography.dll
+I:\pen drive\update\School Management\School Management\bin\itextsharp.dll
+I:\pen drive\update\School Management\School Management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\pen drive\update\School Management\School Management\bin\BouncyCastle.Cryptography.xml
+I:\pen drive\update\School Management\School Management\bin\itextsharp.xml
+I:\pen drive\update\School Management\School Management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\pen drive\update\School Management\School Management\obj\Debug\School Management.csprojAssemblyReference.cache
+I:\pen drive\update\School Management\School Management\obj\Debug\School Management.csproj.CoreCompileInputs.cache
+I:\pen drive\update\School Management\School Management\obj\Debug\School Management.csproj.CopyComplete
+I:\pen drive\update\School Management\School Management\obj\Debug\School Management.dll
+I:\pen drive\update\School Management\School Management\obj\Debug\School Management.pdb
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\School Management.dll.config
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\School Management.dll
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\School Management.pdb
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\csc.exe
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\csc.exe.config
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\csc.rsp
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\csi.exe
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\csi.exe.config
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\csi.rsp
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\System.AppContext.dll
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\System.Console.dll
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\System.IO.Compression.dll
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\System.IO.Pipes.dll
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\System.Security.Claims.dll
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\System.Threading.Thread.dll
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\System.ValueTuple.dll
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\System.Xml.XPath.dll
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\vbc.exe
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\vbc.exe.config
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\vbc.rsp
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\VBCSCompiler.exe
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\BouncyCastle.Cryptography.dll
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\itextsharp.dll
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\BouncyCastle.Cryptography.xml
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\itextsharp.xml
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\obj\Debug\School Management.csprojAssemblyReference.cache
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\obj\Debug\School Management.csproj.CoreCompileInputs.cache
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\obj\Debug\School Management.csproj.CopyComplete
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\obj\Debug\School Management.dll
+C:\Users\N3THUNT3R.SOCIAL\OneDrive\Desktop\update\School Management\School Management\obj\Debug\School Management.pdb
+D:\update\School Management\School Management\bin\School Management.dll.config
+D:\update\School Management\School Management\bin\School Management.dll
+D:\update\School Management\School Management\bin\School Management.pdb
+D:\update\School Management\School Management\bin\roslyn\csc.exe
+D:\update\School Management\School Management\bin\roslyn\csc.exe.config
+D:\update\School Management\School Management\bin\roslyn\csc.rsp
+D:\update\School Management\School Management\bin\roslyn\csi.exe
+D:\update\School Management\School Management\bin\roslyn\csi.exe.config
+D:\update\School Management\School Management\bin\roslyn\csi.rsp
+D:\update\School Management\School Management\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\update\School Management\School Management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\update\School Management\School Management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\update\School Management\School Management\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\update\School Management\School Management\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\update\School Management\School Management\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\update\School Management\School Management\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\update\School Management\School Management\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\update\School Management\School Management\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\update\School Management\School Management\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\update\School Management\School Management\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\update\School Management\School Management\bin\roslyn\System.AppContext.dll
+D:\update\School Management\School Management\bin\roslyn\System.Collections.Immutable.dll
+D:\update\School Management\School Management\bin\roslyn\System.Console.dll
+D:\update\School Management\School Management\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\update\School Management\School Management\bin\roslyn\System.Diagnostics.Process.dll
+D:\update\School Management\School Management\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\update\School Management\School Management\bin\roslyn\System.IO.Compression.dll
+D:\update\School Management\School Management\bin\roslyn\System.IO.FileSystem.dll
+D:\update\School Management\School Management\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\update\School Management\School Management\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\update\School Management\School Management\bin\roslyn\System.IO.Pipes.dll
+D:\update\School Management\School Management\bin\roslyn\System.Reflection.Metadata.dll
+D:\update\School Management\School Management\bin\roslyn\System.Security.AccessControl.dll
+D:\update\School Management\School Management\bin\roslyn\System.Security.Claims.dll
+D:\update\School Management\School Management\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\update\School Management\School Management\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\update\School Management\School Management\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\update\School Management\School Management\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\update\School Management\School Management\bin\roslyn\System.Security.Principal.Windows.dll
+D:\update\School Management\School Management\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\update\School Management\School Management\bin\roslyn\System.Threading.Thread.dll
+D:\update\School Management\School Management\bin\roslyn\System.ValueTuple.dll
+D:\update\School Management\School Management\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\update\School Management\School Management\bin\roslyn\System.Xml.XmlDocument.dll
+D:\update\School Management\School Management\bin\roslyn\System.Xml.XPath.dll
+D:\update\School Management\School Management\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\update\School Management\School Management\bin\roslyn\vbc.exe
+D:\update\School Management\School Management\bin\roslyn\vbc.exe.config
+D:\update\School Management\School Management\bin\roslyn\vbc.rsp
+D:\update\School Management\School Management\bin\roslyn\VBCSCompiler.exe
+D:\update\School Management\School Management\bin\roslyn\VBCSCompiler.exe.config
+D:\update\School Management\School Management\bin\BouncyCastle.Cryptography.dll
+D:\update\School Management\School Management\bin\itextsharp.dll
+D:\update\School Management\School Management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\update\School Management\School Management\bin\BouncyCastle.Cryptography.xml
+D:\update\School Management\School Management\bin\itextsharp.xml
+D:\update\School Management\School Management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\update\School Management\School Management\obj\Debug\School Management.csprojAssemblyReference.cache
+D:\update\School Management\School Management\obj\Debug\School Management.csproj.CoreCompileInputs.cache
+D:\update\School Management\School Management\obj\Debug\School Management.csproj.CopyComplete
+D:\update\School Management\School Management\obj\Debug\School Management.dll
+D:\update\School Management\School Management\obj\Debug\School Management.pdb

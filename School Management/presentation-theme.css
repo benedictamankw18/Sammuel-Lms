@@ -1,0 +1,80 @@
+/* presentation-theme.css - Modern, clean, and colorful for presentation */
+body {
+    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    font-family: 'Segoe UI', Arial, sans-serif;
+    color: #222;
+    margin: 0;
+    padding: 0;
+}
+
+.container, .main-container, .content-box, .login-container {
+    background: #fff;
+    border-radius: 16px;
+    box-shadow: 0 8px 32px rgba(60,60,120,0.15);
+    padding: 2rem;
+    margin: 2rem auto;
+    width: calc(100% - 100px);
+}
+
+h1, h2, h3 {
+    color: #3a86ff;
+    letter-spacing: 1px;
+}
+
+.button, input[type="submit"], .aspNetButton {
+    background: linear-gradient(90deg, #ffbe0b, #fb5607);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 12px 0;
+    font-size: 1.1rem;
+    cursor: pointer;
+    transition: background 0.3s;
+    /* width: 100%; */
+}
+
+.button:hover, input[type="submit"]:hover, .aspNetButton:hover {
+    background: linear-gradient(90deg, #3a86ff, #8338ec);
+}
+
+input, select, textarea {
+    border: 1px solid #bbb;
+    border-radius: 6px;
+    padding: 10px;
+    width: 100%;
+    margin-bottom: 1rem;
+    font-size: 1rem;
+}
+
+label {
+    font-weight: 600;
+    color: #555;
+    margin-bottom: 0.5rem;
+    display: block;
+}
+
+a {
+    color: #3a86ff;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+a:hover {
+    color: #fb5607;
+}
+
+.navbar, .menu {
+    background: #3a86ff;
+    color: #fff;
+    padding: 1rem;
+    border-radius: 0 0 16px 16px;
+    margin-bottom: 2rem;
+}
+
+.footer {
+    background: #222;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+    border-radius: 16px 16px 0 0;
+    margin-top: 2rem;
+}
