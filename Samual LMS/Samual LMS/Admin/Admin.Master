@@ -1,0 +1,59 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="Samual_LMS.Admin.Admin" %>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head runat="server">
+    <title><asp:ContentPlaceHolder ID="head" runat="server" /></title>
+    <asp:ContentPlaceHolder ID="headContent" runat="server">
+
+    </asp:ContentPlaceHolder>
+    <link href="../Content/styles.css" rel="stylesheet" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-qV3yS4F8uZV+gMTRHTO6iQ/1l7h5V/9jxEeV1N+6ZlFRd0D5d6nGQZ39+IW4W0q6" crossorigin="anonymous">
+
+<!-- Bootstrap JS Bundle (includes Popper) -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-4n0ZcP6sz8gF6rK9iUJlF8RZ0u8P3s6Q9Lp7BZxS5qQ5f5w2i0j2f4J1R0V2jG2c" crossorigin="anonymous"></script>
+
+</head>
+<body>
+    <form id="form1" runat="server">
+
+        <!-- Header -->
+        <div class="header">
+            <img src="Images/logo.png" alt="LMS Logo" class="logo" />
+            <h1>Learning Management System</h1>
+        </div>
+
+        <!-- Navigation -->
+        <div class="nav">
+    <asp:Menu 
+        ID="MainMenu" 
+        runat="server" 
+        Orientation="Horizontal"
+        RenderingMode="List"
+        StaticMenuItemStyle-CssClass="level1"
+        StaticSelectedStyle-CssClass="selected">
+        <Items>
+            <asp:MenuItem Text="Home" NavigateUrl="./Default.aspx" />
+            <asp:MenuItem Text="Courses" NavigateUrl="./Courses.aspx" />
+            <asp:MenuItem Text="User" NavigateUrl="./Users.aspx" />
+            <asp:MenuItem Text="Settings" NavigateUrl="./Settings.aspx" />
+            <asp:MenuItem Text="Logout" NavigateUrl="~/Logout.aspx" />
+        </Items>
+    </asp:Menu>
+</div>
+
+
+        <!-- Main Content -->
+        <div class="content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+        </div>
+
+        <!-- Footer -->
+        <div class="footer">
+            <p>&copy; <%: DateTime.Now.Year %> LMS. All Rights Reserved.</p>
+        </div>
+    </form>
+
+</body>
+</html>

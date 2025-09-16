@@ -1,0 +1,10 @@
+G:\Samual LMS\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+G:\Samual LMS\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\Samual LMS\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+G:\Samual LMS\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+G:\Samual LMS\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+G:\Samual LMS\ConsoleApp1\ConsoleApp1\bin\Debug\BCrypt.Net-Next.dll
+G:\Samual LMS\ConsoleApp1\ConsoleApp1\bin\Debug\BCrypt.Net-Next.xml
+G:\Samual LMS\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+G:\Samual LMS\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+G:\Samual LMS\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
